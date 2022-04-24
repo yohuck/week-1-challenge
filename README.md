@@ -1,3 +1,17 @@
+
+
+For this project, I refactored the HTML to reflect accessibilty standards, then updated the CSS file to correctly target the refactored HTML. I then r
+
+- Refactored HTML to reflect accessibility standards
+- Updated CSS to correctly target the newly implemented semantic tags
+- Refactored CSS to reduce repreated styling
+- Added alt attributes to icons and images
+- Updated structure of HTML & CSS for readibility
+- Fixed section links
+- Updated page title
+
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
